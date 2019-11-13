@@ -1,6 +1,13 @@
+
+This was created during my time as a student at Code Chrysalis.
+
 # movies-review
 app for writing movie reviwes. 
-This was created during my time as a student at Code Chrysalis.
+sample applicarion https://movies-review-production.herokuapp.com/
+ 
+## features
+- add reviews (reviewer, rating, review comment)
+- add movies
 
 ## Project setup
 ```
@@ -16,11 +23,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

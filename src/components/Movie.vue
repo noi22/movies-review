@@ -26,7 +26,7 @@
         <input type="text" v-model="review.username"/>
         </label>
         <label>
-        Score:<br>
+        Rating:<br>
         <input type="text" v-model="review.rate"/>
         </label>
         <label>
