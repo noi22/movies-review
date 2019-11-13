@@ -94,23 +94,27 @@ export default {
 <style>
 body {
   margin: 40px 0 0;
-  background-color: white;
+  background-color: black;
 }
 h1 {
   text-align: center;
+  color: red;
 }
 .add-movie-form {
   border: solid 2px black;
   margin-bottom: 3px;
+  background-color: white;
 }
 .add-review-form {
   border: solid 2px black;
   display: flex;
   flex-direction: column;
+  background-color: white;
 }
 .movie-list {
   text-align: center;
   margin-top: 10px;
+  background-color: white;
 }
 .movie {
   border: solid 1px black;
