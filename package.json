@@ -9,7 +9,7 @@
     "migrate": "knex migrate:latest --knexfile models/knexfile.js",
     "rollback": "knex migrate:rollback --knexfile models/knexfile.js",
     "seed": "knex seed:run --knexfile models/knexfile.js",
-    "start": "yarn build && node server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "axios": "^0.19.0",

@@ -1,4 +1,6 @@
 # movies-review
+app for writing movie reviwes. 
+This was created during my time as a student at Code Chrysalis.
 
 ## Project setup
 ```
